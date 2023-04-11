@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mag2s
-- 👀 I’m interested in setting technologyprojects into life and achieving developer skills.
-- 🌱 I’m currently learning python, looking to dive further into webscraping, AI and general handling.
+- 👀 I’m interested in setting projects into life.
+- 🌱 I’m currently learning a lot.
 - 💞️ I’m looking to collaborate on learning and projects.
-- 📫 How to reach me @mag2s on Twitter.
+- 📫 How to reach me ?
 
 <!---
 mag2s/mag2s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
